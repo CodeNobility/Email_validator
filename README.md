@@ -1,6 +1,3 @@
-# Based on the provided JavaScript code, here's a README file for the iValidate email validator web application:
-
----
 
 # iValidate - Email Validator for Your Business
 
